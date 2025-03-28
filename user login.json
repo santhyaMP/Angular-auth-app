@@ -1,0 +1,33 @@
+[
+  {
+    "name": "John",
+    "userID": "john123",
+    "password": "johnpass",
+    "role": "General User"
+  },
+  {
+    "name": "Sara",
+    "userID": "sara456",
+    "password": "sarapass",
+    "role": "General User"
+  },
+  {
+    "name": "Alice",
+    "userID": "alice789",
+    "password": "alicepass",
+    "role": "General User"
+  },
+  {
+    "name": "Adele",
+    "userID": "adele001",
+    "password": "adelepass",
+    "role": "Adele"
+  },
+
+  {
+    "name": "Admin",
+    "userID": "admin001",
+    "password": "adminpass",
+    "role": "Admin"
+  }
+]
